@@ -27,8 +27,14 @@ This is one of my first machine learning projects, and I wanted to understand th
 
 ---
 
+📸 Results
+Plotted training loss curve to visualize learning.
+
+Predicted house prices using the trained linear model.
+
 ## 🚀 How to Run
 1. Clone the repository.  
 2. Install the required libraries:  
    ```bash
    pip install numpy pandas matplotlib
+
