@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction (Beginner Project)
+# 🏠 House Price Prediction
 
 This project is about predicting house prices using a **simple linear regression model** that I built **from scratch** (without using machine learning libraries like Scikit-Learn).
 
